@@ -1,6 +1,6 @@
 @echo off
 echo -------------------------------------------
-echo Jupiter Desktop local environment bootstrap
+echo VS native addon build environment bootstrap
 echo -------------------------------------------
 echo Bootstrap based on chocolatey pkg manager.
 echo Following packages will be installed:
