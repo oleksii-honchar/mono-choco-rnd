@@ -31,7 +31,7 @@ set refreshEnv=%pws% "%ALLUSERSPROFILE%\chocolatey\bin\RefreshEnv.cmd"
 
 choco install -y --force git
 choco install -y --force python2
-choco install -y --force nodejs --version=12.0.0
+choco install -y --force nodejs --version=12.1.0
 
 @%refreshEnv%
 
